@@ -1,0 +1,15 @@
+{
+    "base_url": "https://reqres.in/api",
+    "users": [
+        {
+        "id": "1",
+        "email": "george.bluth@reqres.in",
+        "password": "password123"
+        },
+        {
+        "id": "199",
+        "email": "test.user@reqres.in",
+        "password": "test123"
+        }
+    ]
+}
